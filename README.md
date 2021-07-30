@@ -4,6 +4,8 @@ Hear we are Classifying the Images (as which number is it? )in the DATASET of MN
 * PYTHON 
 * TENSORFLOW
 * NUMPY
+* MATPLOTLIB
+
 # DATASETS
 * WE HAVE TAKEN THE "MNIST" DATASET WHICH WE CAN FIND IN TENSORFLOW(INBUILD DATASET)
 *    ============>>>>>   mnist = tf.keras.datasets.mnist  <<<<<==============
