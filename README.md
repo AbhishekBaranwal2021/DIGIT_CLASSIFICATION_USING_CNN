@@ -45,6 +45,7 @@ Hear we are Classifying the Images (as which number is it? )in the DATASET of MN
  * USING model.fit() function
  
 # PREDICTING THE MODEL
+ * ====>>predictions = model.predict(X_testr)
 
 # TRY ANY INDEX AND CHECK BY YOURSELF !
 * YOU CAN TRY THIS CODE AFTER FULFILLING ALL THE REQUIREMENTS
