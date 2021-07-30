@@ -33,5 +33,25 @@ Hear we are Classifying the Images (as which number is it? )in the DATASET of MN
    * SOFTMAX FUNCTION ==> IT HELP US TO PREDICT THE OUTPUT USING "PROBABILITY" 
 
 # APPLYING OPTIMIZER , LOSS FUNCTION AND ACCURACY
-#NOW FITTNG THE MODEL WITH (X_train AND Y_train)
+ 1. HEAR WE USE "ADAM" OPTIMIZER
+ * WANT TO KNOW ABOUT "ADAM OPTIMIZER" GO TO ===>>https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c
+ 
+ 2. THE WE USE "sparse_categorical_crossentropy" AS PROBABILITIC LOSS FUNCTION .
+ * FOR MORE GO TO ===>>https://keras.io/api/losses/probabilistic_losses/#sparse_categorical_crossentropy-function
+ 
+ 3. GO FOR  ACCURACY
+ 
+# NOW FITTNG THE MODEL WITH (X_train AND Y_train)
+ * USING model.fit() function
+ 
 # PREDICTING THE MODEL
+
+# TRY ANY INDEX AND CHECK BY YOURSELF !
+* YOU CAN TRY THIS CODE AFTER FULFILLING ALL THE REQUIREMENTS
+
+# CHECHING THE ACCURACY ON TEST DATA (VALIDATION ACCURACY)
+ * ===>>>test_loss, test_acc = model.evaluate(X_testr,Y_test)
+
+## ACCURACY ON TRAIN DATA IS 0.9851
+## ACCURACY ON TEST DATA IS 0.980
+
