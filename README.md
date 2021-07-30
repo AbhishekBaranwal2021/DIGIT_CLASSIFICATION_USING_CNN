@@ -46,6 +46,7 @@ Hear we are Classifying the Images (as which number is it? )in the DATASET of MN
  
 # NOW FITTNG THE MODEL WITH (X_train AND Y_train)
  * USING model.fit() function
+ * MODEL FITTING :-Model fitting is the measure of how well a machine learning model generalizes data similar to that with which it was trained
  
 # PREDICTING THE MODEL
  * ====>>predictions = model.predict(X_testr)
